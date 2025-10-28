@@ -1,0 +1,1 @@
+Class: uint8 | Range: [8, 255] | Size: 384 x 512

@@ -1,0 +1,1 @@
+Max difference (conv2 vs imfilter with conv): 3.33067e-16
